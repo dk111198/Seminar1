@@ -1,1 +1,3 @@
 Hello world
+Edit from branch 1
+Edit from branch 2

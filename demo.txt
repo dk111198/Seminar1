@@ -1,1 +1,2 @@
 Edit file demo.txt
+Conflict when rebase
